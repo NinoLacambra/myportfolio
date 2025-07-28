@@ -25,7 +25,7 @@ const About = () => {
              I’m Niño C. Lacambra, a Computer Engineering graduate from the Polytechnic University of the Philippines. At NTEKSystems Inc., I gained hands-on experience in full stack development, working on both front-end and back-end tasks. I also served as a web server analyst at Direc Business Technologies Inc., where I deepened my understanding of server management and system analysis. These experiences have equipped me with a solid technical foundation and a strong drive to grow in the IT industry.
           </p>
           {/** Resume Part */}
-          <a href="https://drive.google.com/drive/folders/1g16wdpcf6WSakLUf-TUuqLP_s58FBGWz?usp=drive_link" target='_blank' rel='noopener norenderer' className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
+          <a href="https://drive.google.com/file/d/1TxqDcvnyZEv4U-xUobO8gdinP1A2mLWU/view?usp=sharing" target='_blank' rel='noopener norenderer' className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
             style={{
               background: 'linear-gradient(90deg, #8245ec, #a855f7)',
               boxShadow: '0 0 2px #8245ec, 0 0 2px #8245ec, 0 0 40px #8245ec',
